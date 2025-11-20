@@ -4,6 +4,8 @@ Sharks are boneless creatures. Instead, their skeletons are made of _cartilage_.
 2. hammerhead shark
 3. tiger shark
 
+![hammerhead shark](https://cdn.britannica.com/62/62562-050-B5F4C54B/Hammerhead-shark.jpg)
+
 ---
 ## Click the animal links below to read more or return to the homepage!
 
