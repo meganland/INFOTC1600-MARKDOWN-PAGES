@@ -3,7 +3,7 @@ Despite living in the ocean, seahorses are classified as **bad** swimmers. To sw
 
 ---
 
-Click the animal links below to learn more or return to the homepage!
+## Click the animal links below to read more or return to the homepage!
 
 [README]( https://github.com/meganland/INFOTC1600-MARKDOWN-PAGES/blob/main/README.md) 	
 ---
