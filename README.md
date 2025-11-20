@@ -1,5 +1,5 @@
 # INFOTC1600-MARKDOWN-PAGES
-Markdown Pages covering marine life. Click the animal links below to learn more!
+Markdown pages covering marine life. Click the animal links below to learn more!
 
 [Orca](https://github.com/meganland/INFOTC1600-MARKDOWN-PAGES/blob/main/orca.md) 	
 ---
