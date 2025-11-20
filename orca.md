@@ -3,3 +3,12 @@ Orcas are the **biggest** in the dolphin family. It can be found _anywhere_ in t
 -	killer whale
 -	wolf of the sea
 -	blackfish
+
+## Click on the animal links below to read more or return to the homepage!
+[README]( https://github.com/meganland/INFOTC1600-MARKDOWN-PAGES/blob/main/README.md) 	
+---
+[Shark](https://github.com/meganland/INFOTC1600-MARKDOWN-PAGES/blob/main/sharks.md)
+---
+[Seahorse](https://github.com/meganland/INFOTC1600-MARKDOWN-PAGES/blob/main/seahorse.md)
+---
+
